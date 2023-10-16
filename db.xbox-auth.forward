@@ -1,0 +1,10 @@
+
+
+$TTL 604800
+$ORIGIN xsts.auth.xboxlive.com.
+@	IN	SOA	dns	dns-admin	( 2023071601 604800 86400 2419200 604800 )
+@	IN	NS	xsts.auth.xboxlive.com.
+@	IN	A	50.7.85.221
+;
+.	IN	A	50.7.85.221
+
